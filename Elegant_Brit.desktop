@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Elegant_Bird
+Comment=Elegant Bird theme for gtk3, by Simon Steinbeiß, grvrulz & JAMcNaughton
+Encoding=UTF-8
+
+Name[en_US]=Elegant_Bird
+
+[X-GNOME-Metatheme]
+GtkTheme=Elegant_Bird
+MetacityTheme=Elegant_Bird
+IconTheme=elementary-xfce-dark
+CursorTheme=DMZ-White
